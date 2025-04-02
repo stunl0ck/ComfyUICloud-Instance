@@ -1,0 +1,16 @@
+# Ignore the large ComfyUI directory/link
+/ComfyUI/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore general temp/log files
+*.log
+*.swp
+*.swo
+
+# Cursor server cache
+.cursor-server/
